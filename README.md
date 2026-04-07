@@ -31,12 +31,6 @@ Zainstaluj następujące oprogramowanie:
 
 * Najnowszą wersję przeglądarki **Chrome** lub **Firefox**
 
-* Rozszerzenie **Grafana k6 Browser Recorder**:
-
-  * **Chrome**: [https://chromewebstore.google.com/detail/grafana-k6-browser-record/fbanjfonbcedhifbgikmjelkkckhhidl](https://chromewebstore.google.com/detail/grafana-k6-browser-record/fbanjfonbcedhifbgikmjelkkckhhidl)
-    lub
-  * **Firefox**: [https://addons.mozilla.org/en-US/firefox/addon/grafana-k6-browser-recorder/](https://addons.mozilla.org/en-US/firefox/addon/grafana-k6-browser-recorder/)
-
 * **GIT** - [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
 ### Rejestracja kont:
