@@ -23,6 +23,8 @@ Zainstaluj następujące oprogramowanie:
 
 * **k6** - [https://grafana.com/docs/k6/latest/set-up/install-k6](https://grafana.com/docs/k6/latest/set-up/install-k6)
 
+* **k6 Studio** - [https://grafana.com/docs/k6-studio/set-up/install/](https://grafana.com/docs/k6-studio/set-up/install/)
+
 * **Docker**:
 
   * [https://docs.docker.com/desktop/setup/install/linux/](https://docs.docker.com/desktop/setup/install/linux/) - Linux
