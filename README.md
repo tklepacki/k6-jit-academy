@@ -2,7 +2,7 @@
 
 Drogi Uczestniku,
 
-Cieszę się, że zdecydowałeś się wziąć udział w warsztacie :)
+Cieszę się, że zdecydowałeś się wziąć udział w moim warsztacie :)
 
 Aby zweryfikować swoje środowisko deweloperskie, upewnij się, że spełniasz poniższe wymagania (*Requirements*).
 
@@ -15,7 +15,7 @@ Aby zweryfikować swoje środowisko deweloperskie, upewnij się, że spełniasz 
 
 ### Narzędzia
 
-Prosimy o przyniesienie laptopa na warsztat – najlepiej z zainstalowanym systemem Windows. Upewnij się, że Twój laptop nie ma żadnych ograniczeń, takich jak brak uprawnień do instalacji narzędzi lub ograniczony dostęp do sieci (VPN itp.).
+Upewnij się, że Twój laptop nie ma żadnych ograniczeń, takich jak brak uprawnień do instalacji narzędzi lub ograniczony dostęp do sieci (VPN itp.).
 
 Zainstaluj następujące oprogramowanie:
 
@@ -62,7 +62,7 @@ Zainstaluj następujące oprogramowanie:
 
 * **Sklonuj repozytorium:**
 
-  * Zrób fork repozytorium: [https://github.com/tklepacki/seetest-k6.git](https://github.com/tklepacki/seetest-k6.git) na swoje konto GitHub. Jeśli nie masz konta GitHub, najpierw je utwórz.
+  * Zrób fork repozytorium: [https://github.com/tklepacki/k6-jit-academy.git](https://github.com/tklepacki/k6-jit-academy.git) na swoje konto GitHub. Jeśli nie masz konta GitHub, najpierw je utwórz.
   * Sklonuj sforkowane repozytorium (ze swojego konta)
   * Przejdź do folderu repozytorium i upewnij się, że projekt został pobrany
 
